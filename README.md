@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.gif" width="100%" alt="AmirAli Mohammadi — Full-Stack Developer (animated banner)" />
+</p>
+
 <div align="center">
 
 # 👨‍💻 AmirAli Mohammadi
